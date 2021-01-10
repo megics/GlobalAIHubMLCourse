@@ -1,7 +1,7 @@
 # Global AI Hub-Introduction to Machine Learning Course
 ![](img/logo.png)
 
-**Course Date:** 4-8 January 2021
+**Course Date:** 4-8 January 2021   
 **Name:** Meliha Gizem  
 **Surname:** Çelik  
 **Email:** celikmelihagizem@gmail.com  
